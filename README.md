@@ -1,3 +1,14 @@
+# Pour commencer: 
+
+j'ai du désintaller create-react-app :
+
+```npm uninstall -g create-react-app```
+
+Puis lancer la création de l'app:
+
+```npx create-react-app react-graphql-github-vanilla```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
